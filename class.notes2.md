@@ -29,7 +29,6 @@
 
 ## 6-6 하위 디렉터리 검색하기
 * #### sub_dir_search.py 모듈 만들기
-* 
 full_filename이 디렉터리 인지 파일인지 구별
  - os.path.isdir 함수 사용
  - 디렉터리일 경우 해당 경로를 입력받아

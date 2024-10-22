@@ -1,3 +1,6 @@
+파이썬 버전
+--version-- == 3.11.4
+
 ### class.notes -> 5장
 
 ### class.notes2 -> 6장
